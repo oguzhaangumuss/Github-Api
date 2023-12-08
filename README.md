@@ -3,4 +3,4 @@ Fetch Api example that displays Github data.
 
 Here's some screenshots that shows howw it's works.
 
-![Ss1](Screenshots/githubApi-1.png)
+![Ss1](Github%20Api%20Project/Screenshots/githubApi-1.png)
